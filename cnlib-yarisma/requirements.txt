@@ -1,0 +1,7 @@
+cnlib>=0.1.4
+pandas>=2.0
+numpy
+matplotlib
+lightgbm
+scikit-learn
+# pandas-ta: Python 3.11 i\u00e7in PyPI'da yok; manuel indicators kullan\u0131l\u0131yor
